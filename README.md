@@ -56,7 +56,7 @@ Examine the model's accuracy and other performance metrics to understand how wel
 
 2.Loading Dataset from a CSV File or from a Table.
 
-3. Summarization of Data to Understand Dataset (Descriptive Statistics).
+3.Summarization of Data to Understand Dataset (Descriptive Statistics).
 
 4.Visualization of Data to Understand Dataset (Plots, Graphs, etc.).
 
